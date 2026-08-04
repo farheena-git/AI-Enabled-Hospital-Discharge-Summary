@@ -1,0 +1,149 @@
+Patient Name: John Doe
+Age: 45
+Date of Admission: 25-07-2026
+Discharge Date: 28-07-2026
+Current Status: Discharged
+Diagnosis: Hypertension
+Treatment: Amlodipine 5 mg once daily
+Days: 3
+Follow-up Advice: Review after 3 months
+
+Patient Name: Alice Smith
+Age: 30
+Date of Admission: 20-07-2026
+Discharge Date: 25-07-2026
+Current Status: Discharged
+Diagnosis: Type 1 Diabetes Mellitus
+Treatment: Insulin therapy and diabetic diet
+Days: 5
+Follow-up Advice: Regular blood sugar monitoring and endocrinology review
+
+Patient Name: Ramesh Kumar
+Age: 52
+Date of Admission: 26-07-2026
+Discharge Date: 30-07-2026
+Current Status: Discharged
+Diagnosis: Type 2 Diabetes Mellitus
+Treatment: Metformin 500 mg twice daily, lifestyle modification
+Days: 4
+Follow-up Advice: Review after 1 month with fasting blood glucose report
+
+Patient Name: Priya Sharma
+Age: 28
+Date of Admission: 01-08-2026
+Expected Date of Discharge: 05-08-2026
+Current Status: Under Diagnosis
+Diagnosis: Iron Deficiency Anemia
+Treatment: Blood investigations, oral iron supplementation
+Days: 4
+Follow-up Advice: Repeat hemoglobin test after treatment
+
+Patient Name: Arjun Mehta
+Age: 40
+Date of Admission: 27-07-2026
+Discharge Date: 30-07-2026
+Current Status: Discharged
+Diagnosis: Essential Hypertension
+Treatment: Amlodipine 5 mg once daily, low-sodium diet
+Days: 3
+Follow-up Advice: Monitor BP regularly and review after 2 weeks
+
+Patient Name: Sneha Iyer
+Age: 35
+Date of Admission: 31-07-2026
+Discharge Date: 02-08-2026
+Current Status: Discharged
+Diagnosis: Acute Gastroenteritis
+Treatment: Oral rehydration therapy, probiotics, antiemetics
+Days: 2
+Follow-up Advice: Maintain hydration and return if symptoms persist
+
+Patient Name: Karthik Raj
+Age: 60
+Date of Admission: 28-07-2026
+Expected Date of Discharge: 04-08-2026
+Current Status: Admitted
+Diagnosis: Chronic Obstructive Pulmonary Disease (COPD)
+Treatment: Bronchodilators, inhaled corticosteroids, oxygen therapy
+Days: 7
+Follow-up Advice: Pulmonary rehabilitation after discharge
+
+Patient Name: Meena Lakshmi
+Age: 47
+Date of Admission: 24-07-2026
+Discharge Date: 27-07-2026
+Current Status: Discharged
+Diagnosis: Hypothyroidism
+Treatment: Levothyroxine 50 mcg daily
+Days: 3
+Follow-up Advice: Check TSH levels after 6 weeks
+
+Patient Name: Rahul Verma
+Age: 33
+Date of Admission: 23-07-2026
+Discharge Date: 29-07-2026
+Current Status: Discharged
+Diagnosis: Acute Appendicitis (Post Appendectomy)
+Treatment: Appendectomy with postoperative antibiotics
+Days: 6
+Follow-up Advice: Wound care and review after 7 days
+
+Patient Name: Divya Nair
+Age: 25
+Date of Admission: 29-07-2026
+Discharge Date: 01-08-2026
+Current Status: Discharged
+Diagnosis: Urinary Tract Infection (UTI)
+Treatment: Nitrofurantoin and increased oral fluids
+Days: 3
+Follow-up Advice: Complete antibiotics and repeat urine test if symptoms recur
+
+Patient Name: Suresh Babu
+Age: 58
+Date of Admission: 30-07-2026
+Expected Date of Discharge: 06-08-2026
+Current Status: Admitted
+Diagnosis: Coronary Artery Disease
+Treatment: Antiplatelets, statins, beta-blockers
+Days: 7
+Follow-up Advice: Cardiology review and lifestyle modification
+
+Patient Name: Anitha Devi
+Age: 42
+Date of Admission: 02-08-2026
+Expected Date of Discharge: 04-08-2026
+Current Status: Under Diagnosis
+Diagnosis: Recurrent Migraine
+Treatment: MRI evaluation, NSAIDs, triptans
+Days: 2
+Follow-up Advice: Maintain headache diary and avoid triggers
+
+Patient Name: Lakshmi Priya
+Age: 29
+Date of Admission: 01-08-2026
+Expected Date of Discharge: 06-08-2026
+Current Status: Admitted
+Diagnosis: High-Risk Pregnancy with Gestational Hypertension
+Treatment: Antihypertensive medication, fetal monitoring, bed rest
+Days: 5
+Follow-up Advice: Daily blood pressure monitoring and obstetric review
+
+Patient Name: Kavya R
+Age: 31
+Date of Admission: 30-07-2026
+Discharge Date: 02-08-2026
+Current Status: Discharged
+Diagnosis: Normal Vaginal Delivery
+Treatment: Postnatal care, iron and calcium supplementation
+Days: 3
+Follow-up Advice: Postnatal check-up after 6 weeks and newborn vaccination
+
+Patient Name: Nandhini S
+Age: 27
+Date of Admission: 03-08-2026
+Expected Date of Discharge: 08-08-2026
+Current Status: Under Diagnosis
+Diagnosis: First Trimester Pregnancy with Severe Hyperemesis Gravidarum
+Treatment: Intravenous fluids, antiemetics, nutritional support
+Days: 5
+Follow-up Advice: Regular antenatal follow-up and hydration monitoring
