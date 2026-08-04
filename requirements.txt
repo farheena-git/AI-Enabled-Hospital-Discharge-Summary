@@ -1,0 +1,9 @@
+streamlit
+reportlab
+python-dotenv
+openai
+langchain-core
+langchain-text-splitters
+langchain-qdrant
+qdrant-client
+langchain-google-genai
