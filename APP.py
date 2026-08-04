@@ -21,7 +21,6 @@ from langchain_google_genai import GoogleGenerativeAIEmbeddings
 load_dotenv()
 
 # NEVER hardcode API keys in source. Put GOOGLE_API_KEY in a local .env file
-# (which should be in .gitignore) or in your deployment environment's secrets.
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 
 COLLECTION_NAME = "my_documents"
